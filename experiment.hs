@@ -1,1 +1,1 @@
-This file should be not empty
+This file should not be empty
